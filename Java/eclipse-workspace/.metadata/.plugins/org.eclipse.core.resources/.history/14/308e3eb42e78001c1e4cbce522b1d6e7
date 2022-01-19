@@ -1,0 +1,38 @@
+package com.bajaj.day2;
+
+class A{
+	A(){
+		
+	}
+	void printA() {
+		System.out.println("A's print function");
+	}
+}
+
+class B extends A{
+	B(){
+		
+	}
+	
+	void printB() {
+		System.out.println("B's print function");
+	}
+}
+
+class C extends B{
+	C(){
+		
+	}
+	void printC() {
+		System.out.println("C's print function");
+	}
+}
+
+public class MultilevelInheritance {
+
+	public static void main(String[] args) {
+		C c = new C();
+		
+	}
+
+}

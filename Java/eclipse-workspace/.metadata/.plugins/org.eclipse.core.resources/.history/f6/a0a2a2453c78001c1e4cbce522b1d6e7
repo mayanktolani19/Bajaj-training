@@ -1,0 +1,20 @@
+package com.bajaj.day2;
+
+class D{
+	D(){}
+	
+}
+
+class E{
+	E(){}
+}
+
+class F{
+	F(){}
+}
+
+public class HierarchicalInheritance {
+	public static void main(String args[]) {
+		
+	}
+}

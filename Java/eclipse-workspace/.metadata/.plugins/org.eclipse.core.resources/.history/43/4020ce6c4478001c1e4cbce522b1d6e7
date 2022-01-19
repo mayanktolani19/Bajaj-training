@@ -1,0 +1,44 @@
+package com.bajaj.day2;
+class M
+{
+   public void disp()
+   {
+	System.out.println("M");
+   }
+}
+
+class N extends M
+{
+   public void disp()
+   {
+	   super.disp();
+	System.out.println("N");
+   }
+}
+
+class O extends M
+{
+   public void disp()
+   {
+	System.out.println("O");
+   }
+	
+}
+
+class P extends N
+{
+   public void disp()
+   {
+	   super.disp();
+	   System.out.println("P");
+   }
+}
+
+public class HybridInheritance {
+
+	public static void main(String[] args) {
+		P p = new P();
+		p.disp();
+	}
+
+}

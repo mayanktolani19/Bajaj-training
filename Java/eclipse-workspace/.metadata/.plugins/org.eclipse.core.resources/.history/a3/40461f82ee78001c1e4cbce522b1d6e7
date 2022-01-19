@@ -1,0 +1,12 @@
+package com.bajaj.day2;
+
+/*
+ *  Final class cannot be extended.
+ *  Final variable cannot be changed.
+ *  Final method cannot be overridden.
+ */
+
+// CRUD operations
+public class MyFinal {
+
+}

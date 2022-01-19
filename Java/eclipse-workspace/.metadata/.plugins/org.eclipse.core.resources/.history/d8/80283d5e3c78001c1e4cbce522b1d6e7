@@ -1,0 +1,28 @@
+package com.bajaj.day2;
+
+class D{
+	D(){}
+	void printD() {
+		System.out.println("D's print function");
+	}
+}
+
+class E{
+	E(){}
+	void printE() {
+		System.out.println("E's print function");
+	}
+}
+
+class F{
+	F(){}
+	void printF() {
+		System.out.println("F's print function");
+	}
+}
+
+public class HierarchicalInheritance {
+	public static void main(String args[]) {
+		
+	}
+}

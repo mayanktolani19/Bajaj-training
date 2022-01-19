@@ -1,0 +1,15 @@
+package com.bajaj.day2;
+
+class Student{
+	private String name;
+	private int rollNo;
+}
+
+public class MyEncapsulation {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
