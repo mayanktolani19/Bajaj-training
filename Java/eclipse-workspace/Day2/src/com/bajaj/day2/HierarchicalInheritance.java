@@ -18,7 +18,7 @@ class E extends D{
 	}
 }
 
-class F extends D{
+class F extends E{
 	F(){}
 	void printF() {
 		System.out.println("F's print function");
@@ -29,7 +29,7 @@ public class HierarchicalInheritance {
 	public static void main(String args[]) {
 		F f = new F();
 //		f.printD();
-		D e = new E();
-		e.printD();
+//		D e = new E();
+		f.printD();
 	}
 }

@@ -27,6 +27,8 @@ public class HelloWorld {
 	
 	// Static methods have can't access non-static variables without object.
 	public static void main(String[] args) {
+		float a = 10.0f/0;
+		System.out.println(a);
 		// TODO Auto-generated method stub
 		HelloWorld ob = new HelloWorld(10,20);
 		ob.printValue();

@@ -17,10 +17,8 @@ class Employee<T, V, Z>{
 	public String toString() {
 		return "Employee [id=" + id + ", name=" + name + ", salary=" + salary + "]";
 	}
-	
-	
-	
 }
+
 public class GenericClass {
 
 	public static void main(String[] args) {

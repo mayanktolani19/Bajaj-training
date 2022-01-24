@@ -27,7 +27,13 @@ public class MyAbstraction {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		processor p = new processor() {
+			@Override
+			public void printProcessor() {
+				// TODO Auto-generated method stub
+				System.out.println("Hi");
+			}
+		};
+		p.printProcessor();
 	}
-
 }
