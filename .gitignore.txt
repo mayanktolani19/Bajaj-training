@@ -1,1 +1,1 @@
-./Nodejs/weather-application/node_modules/
+node_modules/

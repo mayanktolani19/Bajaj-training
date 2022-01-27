@@ -1,0 +1,4 @@
+{"uptime":1763724,"type":"Windows_NT","release":"10.0.19042","totalMemory":12715917312,"freeMemory":6603612160}{"name":"Mayank K Tolani","email":"mayank.tolani@bajajfinserv.in"}
+1,2,3,4,5
+10
+2.5

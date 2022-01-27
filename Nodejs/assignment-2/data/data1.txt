@@ -1,0 +1,1 @@
+{"uptime":1763724,"type":"Windows_NT","release":"10.0.19042","totalMemory":12715917312,"freeMemory":6603612160}
