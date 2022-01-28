@@ -1,0 +1,5 @@
+const buff = new Buffer.alloc(50)
+buff.write("buffer data")
+console.log(buff.toString())
+const buff2 = new Buffer.from("new data", 'utf-8')
+console.log(buff2.toString())
